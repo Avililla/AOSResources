@@ -1,0 +1,25 @@
+{
+  "name": "aosresources",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dice.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Avililla/AOSResources.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Avililla/AOSResources/issues"
+  },
+  "homepage": "https://github.com/Avililla/AOSResources#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^14.7.0"
+  }
+}
